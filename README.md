@@ -3,7 +3,7 @@
 
 I'm living in Tbilisi for over one year and have already visited such places:
 
- - Kazbigi
+ - **Kazbegi**
  - Uplestsikhe
  - Gori
  - Vardzia
